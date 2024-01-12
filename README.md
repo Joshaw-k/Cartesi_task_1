@@ -11,7 +11,7 @@ This Javascript program is an implementation of a quiz game, integrated with car
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Game Logic](#game-logic)
+- [Quiz Logic](#quiz-logic)
 - [Contributing](#contributing)
 - [License](#license)
 
